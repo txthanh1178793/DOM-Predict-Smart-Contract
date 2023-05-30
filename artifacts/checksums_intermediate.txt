@@ -1,0 +1,1 @@
+45248d80ddc5034f60683862a5176003a5af427b1cea30d64066cca855ab58b7  ./target/wasm32-unknown-unknown/release/smart_contract.wasm
